@@ -84,7 +84,6 @@ body {
   color: #f1f5f9;
   font-family: 'Roboto';
   font-weight: 900;
- 
 }
 .tag {
   font-size: 20px;
@@ -133,7 +132,8 @@ button {
 }
 .tag-btn {
   background-color: #f3aa4e;
-  font-size: 20px0;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
   color: #000000;
   border-radius: 20px;
   font-family: 'Roboto';
